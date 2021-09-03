@@ -4,7 +4,7 @@
 유튜브 나도코딩 채널에서 영상보고 공부한 내용들을 보관한 Repository 입니다.
 나도코딩 채널 : https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw 
 
-Projects
+Projects 
 윈도우 화면 캡쳐 프로그램
 파일 실행 후 종료 키를 누를 때까지 특정 키를 누르면 전체화면이 이미지파일로 저장됨.
 
